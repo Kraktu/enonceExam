@@ -1,0 +1,52 @@
+Pour tous les exercices, zéro, une ou plusieurs bonnes réponses possibles
+
+1) Lequel de ces bouts de codes fonctionne est bien écrit :
+
+if($age == 18){
+	"vous êtes majeur"
+}
+
+if($age=53){
+	echo "vous avez 53 ans"
+}
+
+if(age=72){
+	echo "vous avez" . $age . "ans"
+}
+
+2) Cette boucle while écrit les chiffres de 1 à 100, vrai ou faux ?
+
+$i=0
+while($i<100)
+{
+	echo "$i"
+	$i++
+}
+
+
+3) laquelle de ces boucles for écrit les chiffre de 1 à 42
+
+for($i==0;i<42;$i++)
+{
+	echo $i
+}
+
+for($i=0;$i<42;$i++)
+{
+	echo $i+1
+}
+
+for($i=1;$i<=42;$i++)
+{
+	echo $i
+}
+
+for($i=0;$i<=42;$i++)
+{
+	echo $i+1
+}
+
+for($i=1;$i<43;$i++)
+{
+	echo $i
+}

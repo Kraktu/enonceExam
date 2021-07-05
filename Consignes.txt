@@ -1,0 +1,30 @@
+Vous avez jusque 12h00 pour répondre à un maximum de questions. A ce moment là tous les fichiers doivent m'être envoyé par mail ou sur zoom. Si je ne les ai pas à 12h00 chez moi je ne les corriges pas.
+
+Pour chaque exercice, n'hésitez pas à noter en commentaire les éventuelles faiblesses de votre programme ou ce que vous auriez rajouté si vous aviez plus de temps. 
+
+Exemple:
+Si votre programme demande à l'utilisateur de taper A, B ou C pour choisir une option, mais que vous ne traitez pas le fait que l'utilisateur puisse taper toutes les autres lettres OU
+ces lettres là mais en minusculte, et bien notez une petite phrase du style :
+"Je devrai rajouter une sécurité si l'utilisateur entre une autre lettre que A,B ou C pour lui signaler son erreur"
+ou bien :
+"L'utilisateur doit tapper ces lettres en majuscules, il faudrait prendre aussi en compte les minuscules"
+
+Si vous ne le notez pas, et que vous ne le faites pas, je considèrerai que vous n'y avez pas pensé !
+
+Vous pouvez chercher sur internet, mais j'aime autant vous prévenir qu'il y a peu de chance de trouver votre bonheur sauf si vous cherchez quelque chose de précis
+
+Vous pouvez poser des questions à l'oral, mais je n'aiderai personne sur la matière. Juste éventuellement sur un problème lié à VSCode, votre indentation ou quelque chose que je considère de pas vu en classe ou encore difficile pour vous.
+
+Conseils :
+
+- No Stress, c'est pas un examen, essayez simplement de donner le meilleur, vous pouvez peut-être sous-performer ou sur-performer vais vous ne pouvez ni réussir ni rater, c'est vraiment un échentillon de vos connaissances à un instant t.
+
+- Essayez toujours de noter une réponse, même si elle n'est pas bonne ou pas "comme vous le voulez". Je juge ET le raisonnement ET la réponse finale. N'hésitez donc pas à commenter des lignes de codes buguées pour faire fonctionner votre programme un minimum pour que j'ai ET un programme qui marche ET votre raisonnement lors de la correction écrite !
+
+- Ce n'est pas une dissertation, mais n'hésitez pas à commenter votre code si vous trouvez ça pertinant.
+
+- Vous avez droit à Google, vos exercices, internet de manière générale, donc essayez de donner des NOMS de fonctions et de variables qui ont un maximum de sens. Si possible en Anglais, mais sinon en Français. Vous pouvez aussi écrire en français et commenter les noms que vous auriez donné en anglais pour me le signifier.
+
+- Pensez à votre algorithmie, mais aussi à tout ce qui fait d'un code, un bon code. (nom de variable, syntaxe, convention de nommage et d'écriture, fonctions,... )
+
+- Si vous n'arrivez pas à faire tous les exercices, ce n'est PAS GRAVE, mieux vaut 4 exercices réussis et propre que 5 bugué et incompréhensible !
